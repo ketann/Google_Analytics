@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Google_Analytics</string>
+
+    <string name="Second_Screen">Second Screen</string>
+    <string name="my_fragment">This is a Fragment! Tap Fragment Button again to remove this Fragment from this Activity</string>
+    <string name="categoryId">Purchase</string>
+    <string name="actionId">Buy Tickets</string>
+    <string name="labelId">Buy Tickets Button Pressed!</string>
+</resources>

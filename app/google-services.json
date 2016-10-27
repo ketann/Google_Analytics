@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "769217385843",
+    "project_id": "feisty-script-147708"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769217385843:android:d6fcf88da3ad2292",
+        "android_client_info": {
+          "package_name": "gurukrupa.com.google_analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq-VO3Dr21CXFqDhUxZEfhDDsyOZSSVCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-86397017-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769217385843:android:3d2863b69250aa0d",
+        "android_client_info": {
+          "package_name": "com.google_analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq-VO3Dr21CXFqDhUxZEfhDDsyOZSSVCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-86397017-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
